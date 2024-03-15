@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tawseela/android/tawseela_android.iml" filepath="$PROJECT_DIR$/tawseela/android/tawseela_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tawseela/tawseela_users.iml" filepath="$PROJECT_DIR$/tawseela/tawseela_users.iml" />
+    </modules>
+  </component>
+</project>
